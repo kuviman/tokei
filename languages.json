@@ -2096,6 +2096,12 @@
       "line_comment": ["//"],
       "multi_line_comments": [["/*", "*/"]],
       "extensions": ["gdshader"]
+    },
+    "Kast": {
+      "name": "Kast",
+      "line_comment": ["#"],
+      "multi_line_comments": [["(#", "#)"]],
+      "extensions": ["ks"]
     }
   }
 }
